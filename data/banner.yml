@@ -1,0 +1,11 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Quick 'n' Fast Mechanics"
+subtitle: |
+  Dive into the thrill of uncertainty at Quick n' Fast Mechanics! Experience our unique approach where a Japanese Yamaha and a German BMW might battle it out to see who survives the tuning!
+content : |
+  At Quick 'n' Fast, it's not just about repair; it's about adventure in engineering. Will your bike emerge as a champion or a charming relic? That's for us to find out and you to find thrilling. Check out our <a href="#services">full range of services</a>—from routine maintenance to high-risk modifications—and why our customers keep coming back for more. Got a bike that could use some excitement? <a href="#contact">Contact us</a> and let the games begin!
+button:
+  label : "Take the risk"
+  link : "#services"
+image : "images/banner.jpg"
