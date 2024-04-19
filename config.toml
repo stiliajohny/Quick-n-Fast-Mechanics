@@ -11,10 +11,8 @@ theme = "hugo-story"
 relativeURLs = "true"
 #canonifyURLs = "true"
 
-# Local
-baseURL = "/"
-publishDir = "public"
 
+baseURL = "http://quick-n-fast-mechanic.uk/"
 
 
 ## -----------------------------------------------
